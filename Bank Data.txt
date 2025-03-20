@@ -1,0 +1,11 @@
+Objectives
+1) Technoedge employee bank data. Branches are across all the states of the USA. 
+2) Identify the trends and patterns of bank account opening.  
+3) Understand the account holder’s balance as per age group wise. 
+4) To monitor key gender, job classification, and marital status. 
+5) To create a dashboard that can help management make informed decisions about account type, loan, and age.
+
+*****Employee bank account data. needs to look back to its historical performance and business 
+cycle in a way that will provide some meaningful information to take the strategic and informed decision for its 
+expansion. The management of Bank wants to outsource this task, to analyze the trend, pattern, forecast, and 
+analysis, of the performance of account types****
